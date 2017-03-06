@@ -3,7 +3,7 @@ Base on WS2812FX - Interface with Jeedom
 [WS2812FX library](https://github.com/kitesurfer1404/WS2812FX)
 
 
-les commandes pour piloté sont basé sur IP/Cmd (ex: 192.168.0.1/etat) :
+les commandes pour piloté sont basé sur IP/Cmd (ex: [192.168.0.1/etat](https://github.com/Miauto/WS2812FX-ESP/blob/master/Parametre%20Lampe%20Wifi.png)) :
 
 - IP/set?c=FF0000
   - Couleur en HEX on peut mettre au choix

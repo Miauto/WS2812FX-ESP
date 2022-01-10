@@ -1,4 +1,7 @@
 # WS2812FX-ESP
+
+![](https://img.shields.io/github/stars/Miauto/WS2812FX-ESP.svg) ![](https://img.shields.io/github/forks/Miauto/WS2812FX-ESP.svg) ![](https://img.shields.io/github/tag/Miauto/WS2812FX-ESP.svg) ![](https://img.shields.io/github/release/Miauto/WS2812FX-ESP.svg) ![](https://img.shields.io/github/issues/Miauto/WS2812FX-ESP.svg) ![](https://img.shields.io/bower/v/WS2812FX-ESP.svg)
+
 Base on WS2812FX - Interface with Jeedom
 [WS2812FX library](https://github.com/kitesurfer1404/WS2812FX)
 
